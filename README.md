@@ -1,3 +1,2 @@
 # hello-world
-my first repository
-Let's create chrome apps :)
+my first repository created a long time ago
